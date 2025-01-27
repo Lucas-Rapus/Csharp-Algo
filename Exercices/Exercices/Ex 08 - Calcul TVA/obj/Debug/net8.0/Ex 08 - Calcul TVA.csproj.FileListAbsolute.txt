@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\bin\Debug\net8.0\Ex 08 - Calcul TVA.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\bin\Debug\net8.0\Ex 08 - Calcul TVA.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\bin\Debug\net8.0\Ex 08 - Calcul TVA.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\bin\Debug\net8.0\Ex 08 - Calcul TVA.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\bin\Debug\net8.0\Ex 08 - Calcul TVA.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\obj\Debug\net8.0\Ex 08 - Calcul TVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\obj\Debug\net8.0\Ex 08 - Calcul TVA.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\obj\Debug\net8.0\Ex 08 - Calcul TVA.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\obj\Debug\net8.0\Ex 08 - Calcul TVA.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\obj\Debug\net8.0\Ex 08 - Calcul TVA.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\obj\Debug\net8.0\refint\Ex 08 - Calcul TVA.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\obj\Debug\net8.0\Ex 08 - Calcul TVA.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\obj\Debug\net8.0\Ex 08 - Calcul TVA.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 08 - Calcul TVA\obj\Debug\net8.0\ref\Ex 08 - Calcul TVA.dll

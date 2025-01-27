@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\bin\Debug\net8.0\Ex 01 - Affichage Console.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\bin\Debug\net8.0\Ex 01 - Affichage Console.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\bin\Debug\net8.0\Ex 01 - Affichage Console.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\bin\Debug\net8.0\Ex 01 - Affichage Console.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\bin\Debug\net8.0\Ex 01 - Affichage Console.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\obj\Debug\net8.0\Ex 01 - Affichage Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\obj\Debug\net8.0\Ex 01 - Affichage Console.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\obj\Debug\net8.0\Ex 01 - Affichage Console.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\obj\Debug\net8.0\Ex 01 - Affichage Console.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\obj\Debug\net8.0\Ex 01 - Affichage Console.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\obj\Debug\net8.0\refint\Ex 01 - Affichage Console.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\obj\Debug\net8.0\Ex 01 - Affichage Console.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\obj\Debug\net8.0\Ex 01 - Affichage Console.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 01 - Affichage Console\obj\Debug\net8.0\ref\Ex 01 - Affichage Console.dll

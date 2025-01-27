@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\bin\Debug\net8.0\Ex 10 - If Else Voyelle.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\bin\Debug\net8.0\Ex 10 - If Else Voyelle.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\bin\Debug\net8.0\Ex 10 - If Else Voyelle.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\bin\Debug\net8.0\Ex 10 - If Else Voyelle.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\bin\Debug\net8.0\Ex 10 - If Else Voyelle.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\obj\Debug\net8.0\Ex 10 - If Else Voyelle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\obj\Debug\net8.0\Ex 10 - If Else Voyelle.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\obj\Debug\net8.0\Ex 10 - If Else Voyelle.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\obj\Debug\net8.0\Ex 10 - If Else Voyelle.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\obj\Debug\net8.0\Ex 10 - If Else Voyelle.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\obj\Debug\net8.0\refint\Ex 10 - If Else Voyelle.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\obj\Debug\net8.0\Ex 10 - If Else Voyelle.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\obj\Debug\net8.0\Ex 10 - If Else Voyelle.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 10 - If Else Voyelle\obj\Debug\net8.0\ref\Ex 10 - If Else Voyelle.dll

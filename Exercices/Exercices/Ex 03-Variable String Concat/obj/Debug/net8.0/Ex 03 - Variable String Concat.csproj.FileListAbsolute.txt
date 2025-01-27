@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\bin\Debug\net8.0\Ex 03 - Variable String Concat.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\bin\Debug\net8.0\Ex 03 - Variable String Concat.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\bin\Debug\net8.0\Ex 03 - Variable String Concat.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\bin\Debug\net8.0\Ex 03 - Variable String Concat.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\bin\Debug\net8.0\Ex 03 - Variable String Concat.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\obj\Debug\net8.0\Ex 03 - Variable String Concat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\obj\Debug\net8.0\Ex 03 - Variable String Concat.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\obj\Debug\net8.0\Ex 03 - Variable String Concat.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\obj\Debug\net8.0\Ex 03 - Variable String Concat.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\obj\Debug\net8.0\Ex 03 - Variable String Concat.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\obj\Debug\net8.0\refint\Ex 03 - Variable String Concat.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\obj\Debug\net8.0\Ex 03 - Variable String Concat.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\obj\Debug\net8.0\Ex 03 - Variable String Concat.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 03-Variable String Concat\obj\Debug\net8.0\ref\Ex 03 - Variable String Concat.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\bin\Debug\net8.0\Ex 06 - Calcul Aire Carre.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\bin\Debug\net8.0\Ex 06 - Calcul Aire Carre.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\bin\Debug\net8.0\Ex 06 - Calcul Aire Carre.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\bin\Debug\net8.0\Ex 06 - Calcul Aire Carre.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\bin\Debug\net8.0\Ex 06 - Calcul Aire Carre.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\obj\Debug\net8.0\Ex 06 - Calcul Aire Carre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\obj\Debug\net8.0\Ex 06 - Calcul Aire Carre.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\obj\Debug\net8.0\Ex 06 - Calcul Aire Carre.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\obj\Debug\net8.0\Ex 06 - Calcul Aire Carre.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\obj\Debug\net8.0\Ex 06 - Calcul Aire Carre.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\obj\Debug\net8.0\refint\Ex 06 - Calcul Aire Carre.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\obj\Debug\net8.0\Ex 06 - Calcul Aire Carre.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\obj\Debug\net8.0\Ex 06 - Calcul Aire Carre.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 06 - Calcul Aire Carre\obj\Debug\net8.0\ref\Ex 06 - Calcul Aire Carre.dll

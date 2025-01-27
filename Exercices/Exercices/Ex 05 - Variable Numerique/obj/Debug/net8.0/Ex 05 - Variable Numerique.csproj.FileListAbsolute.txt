@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\bin\Debug\net8.0\Ex 05 - Variable Numerique.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\bin\Debug\net8.0\Ex 05 - Variable Numerique.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\bin\Debug\net8.0\Ex 05 - Variable Numerique.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\bin\Debug\net8.0\Ex 05 - Variable Numerique.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\bin\Debug\net8.0\Ex 05 - Variable Numerique.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\obj\Debug\net8.0\Ex 05 - Variable Numerique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\obj\Debug\net8.0\Ex 05 - Variable Numerique.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\obj\Debug\net8.0\Ex 05 - Variable Numerique.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\obj\Debug\net8.0\Ex 05 - Variable Numerique.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\obj\Debug\net8.0\Ex 05 - Variable Numerique.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\obj\Debug\net8.0\refint\Ex 05 - Variable Numerique.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\obj\Debug\net8.0\Ex 05 - Variable Numerique.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\obj\Debug\net8.0\Ex 05 - Variable Numerique.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 05 - Variable Numerique\obj\Debug\net8.0\ref\Ex 05 - Variable Numerique.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\bin\Debug\net8.0\Ex 02 - Variable String.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\bin\Debug\net8.0\Ex 02 - Variable String.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\bin\Debug\net8.0\Ex 02 - Variable String.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\bin\Debug\net8.0\Ex 02 - Variable String.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\bin\Debug\net8.0\Ex 02 - Variable String.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\obj\Debug\net8.0\Ex 02 - Variable String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\obj\Debug\net8.0\Ex 02 - Variable String.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\obj\Debug\net8.0\Ex 02 - Variable String.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\obj\Debug\net8.0\Ex 02 - Variable String.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\obj\Debug\net8.0\Ex 02 - Variable String.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\obj\Debug\net8.0\refint\Ex 02 - Variable String.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\obj\Debug\net8.0\Ex 02 - Variable String.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\obj\Debug\net8.0\Ex 02 - Variable String.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 02 - Variable String\obj\Debug\net8.0\ref\Ex 02 - Variable String.dll

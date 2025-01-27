@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\bin\Debug\net8.0\Ex 04 - Variable Int Concat.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\bin\Debug\net8.0\Ex 04 - Variable Int Concat.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\bin\Debug\net8.0\Ex 04 - Variable Int Concat.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\bin\Debug\net8.0\Ex 04 - Variable Int Concat.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\bin\Debug\net8.0\Ex 04 - Variable Int Concat.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\obj\Debug\net8.0\Ex 04 - Variable Int Concat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\obj\Debug\net8.0\Ex 04 - Variable Int Concat.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\obj\Debug\net8.0\Ex 04 - Variable Int Concat.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\obj\Debug\net8.0\Ex 04 - Variable Int Concat.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\obj\Debug\net8.0\Ex 04 - Variable Int Concat.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\obj\Debug\net8.0\refint\Ex 04 - Variable Int Concat.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\obj\Debug\net8.0\Ex 04 - Variable Int Concat.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\obj\Debug\net8.0\Ex 04 - Variable Int Concat.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 04 - Variable Int Concat\obj\Debug\net8.0\ref\Ex 04 - Variable Int Concat.dll

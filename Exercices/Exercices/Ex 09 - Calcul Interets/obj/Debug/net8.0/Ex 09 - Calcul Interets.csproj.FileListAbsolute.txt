@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\bin\Debug\net8.0\Ex 09 - Calcul Interets.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\bin\Debug\net8.0\Ex 09 - Calcul Interets.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\bin\Debug\net8.0\Ex 09 - Calcul Interets.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\bin\Debug\net8.0\Ex 09 - Calcul Interets.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\bin\Debug\net8.0\Ex 09 - Calcul Interets.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\obj\Debug\net8.0\Ex 09 - Calcul Interets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\obj\Debug\net8.0\Ex 09 - Calcul Interets.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\obj\Debug\net8.0\Ex 09 - Calcul Interets.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\obj\Debug\net8.0\Ex 09 - Calcul Interets.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\obj\Debug\net8.0\Ex 09 - Calcul Interets.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\obj\Debug\net8.0\refint\Ex 09 - Calcul Interets.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\obj\Debug\net8.0\Ex 09 - Calcul Interets.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\obj\Debug\net8.0\Ex 09 - Calcul Interets.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 09 - Calcul Interets\obj\Debug\net8.0\ref\Ex 09 - Calcul Interets.dll

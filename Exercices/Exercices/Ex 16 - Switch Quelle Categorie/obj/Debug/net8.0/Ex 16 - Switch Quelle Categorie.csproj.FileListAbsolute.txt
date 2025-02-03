@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\bin\Debug\net8.0\Ex 16 - Switch Quelle Categorie.exe
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\bin\Debug\net8.0\Ex 16 - Switch Quelle Categorie.deps.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\bin\Debug\net8.0\Ex 16 - Switch Quelle Categorie.runtimeconfig.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\bin\Debug\net8.0\Ex 16 - Switch Quelle Categorie.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\bin\Debug\net8.0\Ex 16 - Switch Quelle Categorie.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\Ex 16 - Switch Quelle Categorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\Ex 16 - Switch Quelle Categorie.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\Ex 16 - Switch Quelle Categorie.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\Ex 16 - Switch Quelle Categorie.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\Ex 16 - Switch Quelle Categorie.sourcelink.json
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\Ex 16 - Switch Quelle Categorie.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\refint\Ex 16 - Switch Quelle Categorie.dll
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\Ex 16 - Switch Quelle Categorie.pdb
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\Ex 16 - Switch Quelle Categorie.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\C# - la base\Exercices\Exercices\Ex 16 - Switch Quelle Categorie\obj\Debug\net8.0\ref\Ex 16 - Switch Quelle Categorie.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex 11 - If Else Nombre Divisible/1.0.0": {
+        "runtime": {
+          "Ex 11 - If Else Nombre Divisible.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex 11 - If Else Nombre Divisible/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

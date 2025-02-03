@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex 13 - If Else Triangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f895c9bb9e03148e4de8ebad8542a5e4fc945b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex 13 - If Else Triangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex 13 - If Else Triangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

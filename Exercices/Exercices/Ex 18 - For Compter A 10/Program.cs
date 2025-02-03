@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine($"Je compte jusqu'a 10");
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine($"\t{i}");
+}

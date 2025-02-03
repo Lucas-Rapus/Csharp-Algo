@@ -3,18 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\C# - la base\\Exercices\\Exercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0786F8E1-3B9D-455A-8FB6-9C037EE283D4}|Ex 10 - If Else Voyelle\\Ex 10 - If Else Voyelle.csproj|c:\\users\\administrateur\\desktop\\c# - la base\\exercices\\exercices\\ex 10 - if else voyelle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0786F8E1-3B9D-455A-8FB6-9C037EE283D4}|Ex 10 - If Else Voyelle\\Ex 10 - If Else Voyelle.csproj|solutionrelative:ex 10 - if else voyelle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{380D7F7C-1E81-4C75-B254-A90A55084EE5}|Ex 18 - For Compter A 10\\Ex 18 - For Compter A 10.csproj|c:\\users\\administrateur\\desktop\\c# - la base\\exercices\\exercices\\ex 18 - for compter a 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380D7F7C-1E81-4C75-B254-A90A55084EE5}|Ex 18 - For Compter A 10\\Ex 18 - For Compter A 10.csproj|solutionrelative:ex 18 - for compter a 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_10\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_18\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BAF0F5C-3FD3-4550-BAE0-9A767F65CA24}|Ex 09 - Calcul Interets\\Ex 09 - Calcul Interets.csproj|c:\\users\\administrateur\\desktop\\c# - la base\\exercices\\exercices\\ex 09 - calcul interets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAF0F5C-3FD3-4550-BAE0-9A767F65CA24}|Ex 09 - Calcul Interets\\Ex 09 - Calcul Interets.csproj|solutionrelative:ex 09 - calcul interets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_09\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A6FBE7B-7B7C-411D-B192-06616AFD37E3}|Ex 17 - Quelle Boisson\\Ex 17 - Quelle Boisson.csproj|c:\\users\\administrateur\\desktop\\c# - la base\\exercices\\exercices\\ex 17 - quelle boisson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6FBE7B-7B7C-411D-B192-06616AFD37E3}|Ex 17 - Quelle Boisson\\Ex 17 - Quelle Boisson.csproj|solutionrelative:ex 17 - quelle boisson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,52 +95,39 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_10\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_10\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_10\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_18\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_18\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_18\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T07:47:00.067Z",
+              "WhenOpened": "2025-02-03T07:19:17.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\C# - la base\\Exercices\\Exercices\\Ex 10 - If Else Voyelle\\Program.cs",
-              "RelativeDocumentMoniker": "Ex 10 - If Else Voyelle\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\C# - la base\\Exercices\\Exercices\\Ex 10 - If Else Voyelle\\Program.cs",
-              "RelativeToolTip": "Ex 10 - If Else Voyelle\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\C# - la base\\Exercices\\Exercices\\Ex 18 - For Compter A 10\\Program.cs",
+              "RelativeDocumentMoniker": "Ex 18 - For Compter A 10\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\C# - la base\\Exercices\\Exercices\\Ex 18 - For Compter A 10\\Program.cs",
+              "RelativeToolTip": "Ex 18 - For Compter A 10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T07:45:03.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_09\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_09\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_09\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\fullstackDotNet2024_2025\\04 - Csharp bases\\exercices\\exercice_09\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T07:39:54.027Z",
+              "WhenOpened": "2025-01-31T07:56:54.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\C# - la base\\Exercices\\Exercices\\Ex 09 - Calcul Interets\\Program.cs",
-              "RelativeDocumentMoniker": "Ex 09 - Calcul Interets\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\C# - la base\\Exercices\\Exercices\\Ex 09 - Calcul Interets\\Program.cs",
-              "RelativeToolTip": "Ex 09 - Calcul Interets\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\C# - la base\\Exercices\\Exercices\\Ex 17 - Quelle Boisson\\Program.cs",
+              "RelativeDocumentMoniker": "Ex 17 - Quelle Boisson\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\C# - la base\\Exercices\\Exercices\\Ex 17 - Quelle Boisson\\Program.cs",
+              "RelativeToolTip": "Ex 17 - Quelle Boisson\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T07:29:59.802Z",
+              "WhenOpened": "2025-01-31T07:34:56.743Z",
               "EditorCaption": ""
             }
           ]
